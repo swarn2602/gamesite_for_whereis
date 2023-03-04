@@ -1,0 +1,29 @@
+header{
+    color: white;
+    text-align: center;
+    font-size: 1cm;
+    font-family: fantasy;
+}
+div{
+    color:black;
+    margin: 4em;
+    background-color: white;
+    padding: 3%;
+    border-radius: 2em;
+    background: linear-gradient(lightblue, pink);
+    text-transform: capitalize;
+    font-size: x-large;
+    
+    
+}
+div:hover{
+    background: linear-gradient(pink, lightblue);
+}
+.heading1:hover:before{
+    content: level1 ;
+
+}
+a{
+    text-decoration: none;
+}
+

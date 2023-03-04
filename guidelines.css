@@ -1,0 +1,34 @@
+.rules{
+    background:black;
+    border-radius: 2em;
+    padding: 1em;
+    margin: 3em;
+    margin-bottom: 5em;
+    color :white;font-family: cursive;font-size: large;
+    font-size: .65cm;
+
+}
+header{
+    color:black;
+    font-size:xx-large;
+    text-align: center;
+    margin-bottom: 1.1em;
+    margin-top: 1.1em;
+    font-family: fantasy;
+}
+button{
+    text-align: center;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 2em;
+    margin-left: 19.5em;
+    border-radius: 1em;
+    background:transparent;
+    color: white;
+    border: 1em, solid white;
+    
+}
+
+html{
+    background:linear-gradient(lightblue, pink )
+}

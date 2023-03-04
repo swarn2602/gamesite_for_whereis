@@ -1,0 +1,41 @@
+.intro{
+    background-color: black;
+    border-radius: 5em;
+    text-align: center;
+    color: white;
+    padding: 2em;
+    margin-top: 1%;
+    margin-left: 16%;
+    margin-right: 16%;
+    margin-bottom: 16%;
+    padding-top:4em;
+    box-shadow: 0 15px 15px rgba(0, 0,0, .5);
+    opacity:1;
+    border: 1em solid black;
+ 
+}
+html{
+    background: linear-gradient( lightblue, pink );
+}
+h1{
+    color:white;
+}
+.buttons{
+    border-radius: 1em;
+    font-size: larger;
+    box-shadow: 0 0 1em .2em white;
+    background-color: lightcyan;
+}
+
+.firstline{
+    color:white
+
+}
+.logo{
+    align-items: center;
+    height: 5cm;
+    border-radius: 2em;
+    margin-left:35em;
+    margin-top: 1.6cm;
+    opacity: 1;
+}

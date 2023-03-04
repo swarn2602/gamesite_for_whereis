@@ -1,0 +1,32 @@
+html {
+    background: linear-gradient(lightblue, pink);
+}
+.heading{
+    font-size: 1.5cm;
+    font-family: fantasy;
+    text-align: center;
+
+}
+
+.paras{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    color: white;
+
+    margin-left:4cm;
+    margin-right:4cm;
+    margin-top: 1cm;
+    padding: 1.5cm;
+    border-radius: 3em;
+    display: flex;
+    box-shadow: 12px 12px 2px 1px grey;
+
+}
+
+.paras:hover{
+    font-size: x-large;
+
+   
+}
